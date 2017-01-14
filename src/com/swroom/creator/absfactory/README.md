@@ -1,5 +1,9 @@
 # 抽象工厂模式
 
+## UML类图
+![absfactory](../../../../../resources/images/abstract-factory-uml.png)
+
+
 ## 示例
 
 ![抽象工厂模式](http://swroom.qiniudn.com/0_1331859200u1VV.gif)
