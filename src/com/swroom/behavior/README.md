@@ -2,3 +2,7 @@
 * [模板方法模式（template）](template)
 * [中介者模式（mediator）](mediator)
 * [观察者模式（observer）](observer)
+* [命令模式（command）](command)
+* [策略模式（strategy）](strategy)
+* [责任链模式（chain responsibility）](responsibility)
+* [迭代器模式（iterator）](iterator)
