@@ -6,3 +6,5 @@
 * [策略模式（strategy）](strategy)
 * [责任链模式（chain responsibility）](responsibility)
 * [迭代器模式（iterator）](iterator)
+* [访问者模式（visitor）](visitor)
+* [备忘录模式（memento）](memento)
