@@ -8,3 +8,4 @@
 * [迭代器模式（iterator）](iterator)
 * [访问者模式（visitor）](visitor)
 * [备忘录模式（memento）](memento)
+* [状态模式（state）](state)
