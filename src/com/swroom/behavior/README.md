@@ -9,3 +9,4 @@
 * [访问者模式（visitor）](visitor)
 * [备忘录模式（memento）](memento)
 * [状态模式（state）](state)
+* [解释器模式（interpreter）](interpreter)
